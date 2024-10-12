@@ -1,1 +1,6 @@
 # -Image-Based-Classification-Of-Leaf-Diseases-Using-Machine-Learning-Techniques-
+Agricultural productivity is a crucial factor influencing the economy. One significant aspect of this is the detection of plant diseases, which plays a vital role in the agricultural sector, as plant diseases are a common occurrence. If not properly managed, these diseases can severely impact plant health, leading to reduced product quality, quantity, and overall productivity. For example, "little leaf disease" is a harmful condition affecting pine trees in the United States.
+
+Automated plant disease detection offers a beneficial solution by reducing the effort required to monitor large crop fields and identifying disease symptoms at an early stage, as soon as they appear on the leaves. This paper presents an effective approach to distinguishing healthy and diseased leaves using image processing and machine learning techniques. Various plant diseases can damage the chlorophyll in leaves, leading to visible brown or black spots. These issues can be detected through image preprocessing and segmentation.
+
+Support Vector Machine (SVM), a machine learning algorithm, was employed for classification, while the Convolutional Neural Network (CNN) achieved improved recognition accuracy compared to the SVM approach.
